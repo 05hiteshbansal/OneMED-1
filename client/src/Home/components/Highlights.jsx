@@ -15,39 +15,39 @@ import ThumbUpAltRoundedIcon from '@mui/icons-material/ThumbUpAltRounded';
 const items = [
   {
     icon: <SettingsSuggestRoundedIcon />,
-    title: 'Adaptable performance',
+    title: 'easy to use',
     description:
-      'Our product effortlessly adjusts to your needs, boosting efficiency and simplifying your tasks.',
+      'one product for everything ',
   },
   {
-    icon: <ConstructionRoundedIcon />,
-    title: 'Built to last',
+    icon: <SettingsSuggestRoundedIcon />,
+    title: 'easy to use',
     description:
-      'Experience unmatched durability that goes above and beyond with lasting investment.',
+      'one product for everything ',
   },
   {
-    icon: <ThumbUpAltRoundedIcon />,
-    title: 'Great user experience',
+    icon: <SettingsSuggestRoundedIcon />,
+    title: 'easy to use',
     description:
-      'Integrate our product into your routine with an intuitive and easy-to-use interface.',
+      'one product for everything ',
   },
   {
-    icon: <AutoFixHighRoundedIcon />,
-    title: 'Innovative functionality',
+    icon: <SettingsSuggestRoundedIcon />,
+    title: 'easy to use',
     description:
-      'Stay ahead with features that set new standards, addressing your evolving needs better than the rest.',
+      'one product for everything ',
   },
   {
-    icon: <SupportAgentRoundedIcon />,
-    title: 'Reliable support',
+    icon: <SettingsSuggestRoundedIcon />,
+    title: 'easy to use',
     description:
-      'Count on our responsive customer support, offering assistance that goes beyond the purchase.',
+      'one product for everything ',
   },
   {
-    icon: <QueryStatsRoundedIcon />,
-    title: 'Precision in every detail',
+    icon: <SettingsSuggestRoundedIcon />,
+    title: 'easy to use',
     description:
-      'Enjoy a meticulously crafted product where small touches make a significant impact on your overall experience.',
+      'one product for everything ',
   },
 ];
 
