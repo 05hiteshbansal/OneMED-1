@@ -8,13 +8,15 @@ import {
 import toast, { Toaster } from "react-hot-toast";
 import Register from "./Register";
 import Login from "./Login";
-import Home from "./Home";
+import Home from "./Home/Home";
+import Dashboard from "./Dashboard/Dashboard";
 
 function App() {
   return (
     <Router>
       <Routes>
         <Route exact path="/" element={<Home />} />
+        <Route exact path="/dash" element={<Dashboard />} />
         <Route path="/login" element={<Login />} />
         <Route path="/signup" element={<Register />} />
 
